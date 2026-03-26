@@ -1,4 +1,4 @@
-package edbase
+package dataset
 
 import (
 	"bufio"
